@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="first_name_1">Manuel</string>
+    <string name="second_name_1">Fernando</string>
+    <string name="tercero_name_1">Sofia</string>
+    <string name="cuarto_name_1">Manuela</string>
+    <string name="quinto_name_1">Javier Mecanico</string>
+    <string name="first_name_2">Manuel</string>
+    <string name="second_name_2">Fernando</string>
+    <string name="tercero_name_2">Sofia</string>
+    <string name="cuarto_name_2">Manuela</string>
+    <string name="quinto_name_2">Javier Mecanico</string>
+    <string name="first_name_3">Manuel</string>
+    <string name="second_name_3">Fernando</string>
+    <string name="tercero_name_3">Sofia</string>
+    <string name="cuarto_name_3">Manuela</string>
+    <string name="quinto_name_3">Javier Mecanico</string>
+    <string name="first_name_4">Manuel</string>
+    <string name="second_name_4">Fernando</string>
+    <string name="tercero_name_4">Sofia</string>
+    <string name="cuarto_name_4">Manuela</string>
+    <string name="quinto_name_4">Javier Mecanico</string>
+</resources>
